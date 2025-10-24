@@ -1,3 +1,3 @@
-module github.com/eu-native-platform/shared/apidoc
+module github.com/st-keller/apidoc
 
 go 1.25
